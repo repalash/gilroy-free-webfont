@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Extrabold.eot');
+    src: local('Gilroy Extrabold'), local('Gilroy-Extrabold'),
+    url('Gilroy-Extrabold.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Extrabold.woff') format('woff'),
+    url('Gilroy-Extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
