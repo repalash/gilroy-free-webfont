@@ -16,7 +16,7 @@
 <link href="raw.githubusercontent.com/repalash/gilroy-free-webfont/fonts/Gilroy-Light.css" rel="stylesheet">
 ```
 
-###Helper class:
+### Helper class:
 ```css
 .font-gilroy {
     font-family: 'Gilroy', sans-serif !important;
