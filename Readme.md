@@ -1,5 +1,7 @@
 # Gilroy Webfont CDN
 
+CDN links for free versions of Gilroy font (Light and Extrabold). Buy the other versions from official source here - https://www.tinkov.info/gilroy.html
+
 ## include in HTML
 ### ExtraBold
 ```html
@@ -51,4 +53,3 @@
     }
 ```
 
-_More: https://gist.github.com/mfd/09b70eb47474836f25a21660282ce0fd_
